@@ -1,3 +1,5 @@
+/* @import url("https://cdn.web-fonts.ge/fonts/alk-life/css/alk-life.min.css"); */
+
 * {
 	margin: 0;
 	padding: 0;
@@ -8,9 +10,11 @@
 img {
 	width: 100%;
 }
+
 ul {
 	list-style-type: none;
 }
+
 a {
 	text-decoration: none;
 	color: black;
@@ -51,6 +55,9 @@ nav li {
 .box p {
 	max-width: 400px;
 	width: 100%;
+	font-family: "Jacquarda Bastarda 9", serif;
+	font-weight: 400;
+	font-style: normal;
 }
 
 .box img {
@@ -64,4 +71,11 @@ nav li {
 
 footer {
 	background-color: blue;
+}
+
+.text-1 {
+	font-family: "ALK1";
+}
+.text-2 {
+	font-family: "font2";
 }

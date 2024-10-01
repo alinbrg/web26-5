@@ -1,0 +1,20 @@
+@font-face {
+	font-family: "ALK1";
+	src: url("../fonts/alk-life-webfont.woff2") format("woff2"),
+		/* Super Modern Browsers */ url("../fonts/alk-life-webfont.woff")
+			format("woff"),
+		/* Pretty Modern Browsers */ url("../fonts/alk-life-webfont.ttf")
+			format("truetype"),
+		/* Safari, Android, iOS */
+			url("../fonts/alk-life-webfont.svg#alk_liferegular") format("svg"); /* Legacy iOS */
+}
+
+@font-face {
+	font-family: "font2";
+	src: url("../fonts/JacquardaBastarda9-Regular.woff2") format("woff2"),
+		url("../fonts/JacquardaBastarda9-Regular.woff") format("woff"),
+		url("../fonts/JacquardaBastarda9-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
